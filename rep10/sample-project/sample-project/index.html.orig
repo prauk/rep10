@@ -19,8 +19,8 @@
         </div>
             <div class="content-body">
                 <div class="success-text">Success!</div>
-<<<<<<<D
-                >
+<<<<<<< HEAD
+                <div class="description line-1"> Azure DevOps Project v1.0 has been successfully setup</div>
 =======
                 <div class="description line-1"> Azure DevOps Project v2.0 has been successfully setup</div>
 >>>>>>> branch2
